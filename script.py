@@ -3,18 +3,14 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
-
-This is Version 2 of Auto Filter Bot
-
-Bot gives button link to files in connected channels on query !
+I am a bot made for movie house group !
 
 No need to add filters for your files or movies from now on!
 
 For more click <i>help</i></b>"""
 
 
-    HELP_MSG = """<b>How to use the bot??</b>
+    HELP_MSG = """<b>How to use this bot??</b>
 
 <i>
 * Add bot to your group with admin rights.
