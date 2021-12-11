@@ -3,7 +3,7 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-I am an auto filter bot made for mvie house group!
+I am an auto filter bot made for movie house group!
 No need to add filters for your files or movies from now on!
 
 For more click <i>help</i></b>"""
